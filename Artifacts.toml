@@ -1,9 +1,9 @@
 [[Patchelf]]
 arch = "x86_64"
-git-tree-sha1 = "4cea8b92e82d8c4be624443fbbf58ceb41450fe1"
+git-tree-sha1 = "02d4470c503d39efe1e2760a52da59d78d037f32"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "bb3e73513bedfc9fd36834aecb9e5709a5c30fbc393035f83dbd125e2b64c8bf"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v2019.10.23+0/Patchelf.v2019.10.23.x86_64-linux-gnu.tar.gz"
+    sha256 = "d7fa64b42bb4085cfc2ff0cf68e8628f2e3e24750432637f8ffe0dc438749986"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v2019.10.23+1/Patchelf.v2019.10.23.x86_64-linux-gnu.tar.gz"
