@@ -1,174 +1,174 @@
 [[Patchelf]]
 arch = "aarch64"
-git-tree-sha1 = "aaec820f89bd9a97cb43efba12d67129723550b1"
+git-tree-sha1 = "82113eda7e5691eae402dadd59f94a7aa9eebe8b"
 os = "macos"
 
     [[Patchelf.download]]
-    sha256 = "49f063b460f331cc75d9ecd1e3aaac39a5fbbefbf7b10081e860d9b627a539f0"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "f22941b1cbeec4995e6bcb85ba3d1968269828ce7186ad587196324ba29677cc"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.aarch64-apple-darwin.tar.gz"
 [[Patchelf]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7928deaeec507e30e3dac91c7767321c656c98df"
+git-tree-sha1 = "e238353e935082035d14a9edeb3bbfd1272618ca"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "e61b8427d393c2773a807b3dc3a517b10e13fd37ac1f99beff04e25ce2ea5c31"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0250229537d2a37a14e9fa5befaefc54d93784fd85d76b780125e6abd4ebf72f"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[Patchelf]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c64319b40b8ebf3f454b568d00c1885ba21e7909"
+git-tree-sha1 = "3069d55f7ff40ff56bb3af6cec90601d2a3df02c"
 libc = "musl"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "8c24fa51c940442df35d9ebfe4275cb85ee4fb410343cbf4c3ae2d54cb0c2ce4"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "fef1f26f0eeecf5d153221204da5a977dc7f88cc075a5e946020c32e571c7c31"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.aarch64-linux-musl-cxx11.tar.gz"
 [[Patchelf]]
 arch = "aarch64"
-git-tree-sha1 = "74e80bf1b0e52d5c13637261a331111f6fb7b13d"
+git-tree-sha1 = "90f49130242c6f9fc622100ebb605161e42123a5"
 os = "freebsd"
 
     [[Patchelf.download]]
-    sha256 = "a89131b52e92a35e7218864deaae115b21856587bc2cf212d838031774e28bee"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "9849e8b0c7c2b3e255ead95b9ae5f62d719918f618a2de5b6a0d8d08a8e46058"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.aarch64-unknown-freebsd.tar.gz"
 [[Patchelf]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "560aed7bec53fa6879f24a4536bd43e95340924e"
+git-tree-sha1 = "17c07a7ca3443d198a7a017510d854fec803d3bc"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "44d8353e572e6b14c682a2036b8334dd86376796b5cbe508e4e07ec71e103c99"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "46152022f9cecad84ed44035d8a23306f43cd333882aed5454efe2566c8e7902"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Patchelf]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ddfcde6dfbd9e6f8459841d3574dd83663d39f9e"
+git-tree-sha1 = "89d3184eec63e717ade56699de6c0ceb7689a792"
 libc = "musl"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "5da6622d7a1179f695d340219fb6fed29703596531ba8adeb8fcde5d28d68fd9"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "6feadfd6573f61837acd6f4e6a62de83ef23ff64ce73f041cb64522cfa03dc92"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Patchelf]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4d807d131c1b935c8091cd373d7575837e6354e"
+git-tree-sha1 = "27b431d784f4d54c3ecd9b7845d9f789effcad3e"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "3ff8893240569209dd9238062fe0a47eb383886a55de9a91fd1e10e16e021ee7"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "64d1eadcb6a61f4a958093ab23dc01daa4cb94d3ea45e72f8f44415b79c2379b"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Patchelf]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c7cdad7d6bafba6563831365f747e98c780fc322"
+git-tree-sha1 = "92b749bbb2a518c71b4861324da2642192cd14c9"
 libc = "musl"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "c5fb1ba21c576b361664fd5ddf9df819d78abf9b57b82ff35ae4d0f309ec5d47"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "37f9f620ebe21e00ff77bbad1868ff640e2e9324b978aa87a6961c965bae0b76"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Patchelf]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "298e22c3fb611ad2af7aa9c65c72fb6ee8b052b3"
+git-tree-sha1 = "06948573e6862e492cd26604d47b9076fadf326d"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "00b78bf1947ad9a404774dc41d34b7f1bf36f69ba7bfa8fdfc3514e16bcaba17"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "598e2073d86e91043013292cd4d3994c94c09086f4500882c4afa7220f7c003d"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.i686-linux-gnu-cxx11.tar.gz"
 [[Patchelf]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "157fb213bddfbe19295017326978228686a819b1"
+git-tree-sha1 = "673f83834a87279d06c032c1d53b3a81f30e897b"
 libc = "musl"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "63322a3bf93d59ccaa00842170bc5244b8dd5cf2341b4e0ab1a8ce5bf0942246"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "e06f1029516d1c7e51cb51c0583aa8a23f7c13ab7a7d0a655211b7f0b5a44b44"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.i686-linux-musl-cxx11.tar.gz"
 [[Patchelf]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4825835ebdf105d1c70d8fb7bc43013c52e9bfb4"
+git-tree-sha1 = "97bcc823a9490af258c48e265f42ab5415777aa6"
 os = "windows"
 
     [[Patchelf.download]]
-    sha256 = "93350cf19bcf0a10c4483eaff066dd8c910671e9491898b27095551992ad69a2"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "07d920b8348e4deba3a79bc0319b32f208b926ca4e7924cbe1ce1efc00305a15"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.i686-w64-mingw32-cxx11.tar.gz"
 [[Patchelf]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "11a337a6b5189aee64c8e5938af5b84ead79a421"
+git-tree-sha1 = "be19544141e578a656378c4c86e0d1d265e02b11"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "29cc1bcc675713ca5393ca0089647ee137c22fc706655b10646c0300f1d5d038"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "a341ba6bb283a01b8cd888ab4aa520b931d80f9413949f539e77f2da2a143d20"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Patchelf]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ecb020285c94f197c07a1102efa2130fd603866"
+git-tree-sha1 = "f48eef552ed8a7de7650f60faf428b78b320e4a9"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "d1c2ac9604e149835473911808e6bf3867535623ead04e4430f028dbab5cfa6f"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "bedd82a15ec6e85ff0644b0f575e45cbe2e128590b22b64f9e4de59b22ce6943"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.riscv64-linux-gnu-cxx11.tar.gz"
 [[Patchelf]]
 arch = "x86_64"
-git-tree-sha1 = "511a75689e1e965e050a409fe8283f6f8587ee20"
+git-tree-sha1 = "e277b4dd68e9b880ab1be47e884c2bce4a88e9a4"
 os = "macos"
 
     [[Patchelf.download]]
-    sha256 = "a93660ba029cf245b02d4805409be4a9a74ffb10a7103f139ae03f22b0ab6786"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "f7604b347e967af686be6c5bc8921c5f6ee7ea8c540ea3b1199dcb0fc8f8501c"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.x86_64-apple-darwin.tar.gz"
 [[Patchelf]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e12793a5bda358d1adee42a9be549b0a0b2c0236"
+git-tree-sha1 = "51b3a06ac3ff5d4e9d1130800c6ee3e84b3df365"
 libc = "glibc"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "adc8e42bd7ef0aac8afec8ec4633443479a1a112dabc9d208de8300054fd509c"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8e3b67217cd2a8a2d83c687f7d4d9b02ad67929dbae5e56e83c34635f3420ab5"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[Patchelf]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b44cc16a988ea98ae7b4126be5ea5dc6e2bd08a2"
+git-tree-sha1 = "bbddf90c176c43b081fbd2270b8aad1e4b6b5e40"
 libc = "musl"
 os = "linux"
 
     [[Patchelf.download]]
-    sha256 = "cf8cf065194ada56151f05ff6801d17aec56379f38c450f1eeffafc3fd18815f"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "40a0a2a52f5f50582437156ac24794ab4754d95a3efece21ff9c8155f100b4b3"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.x86_64-linux-musl-cxx11.tar.gz"
 [[Patchelf]]
 arch = "x86_64"
-git-tree-sha1 = "f9a3d296f13f06fa88855f94d7be6f14b9d6cff5"
+git-tree-sha1 = "547fcc568bd9f29ebb3a09d5fb84118be1c05bd6"
 os = "freebsd"
 
     [[Patchelf.download]]
-    sha256 = "1e61ab4b11697edc11cb562e1b4d2c35841f8dd9f93f87c3c5ab4d8526abd1ec"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "844c2664dea5869d36c38d33478bbe781937dcf917a24c16b8bbcace32d69100"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.x86_64-unknown-freebsd.tar.gz"
 [[Patchelf]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "05c99b833075704dd67b978e221e01e51f1057dc"
+git-tree-sha1 = "fff67163675f38384f9fb4a438f71f6215683dd0"
 os = "windows"
 
     [[Patchelf.download]]
-    sha256 = "fafc3073ac5ff53e06096fdce64978851d095ab65779a721b40e09c34c36da3e"
-    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.1+0/Patchelf.v0.19.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "26ca8229aa6f6272cd28400b7dee75d478dbc2eda23bca3ffb86550d3bed75ce"
+    url = "https://github.com/JuliaBinaryWrappers/Patchelf_jll.jl/releases/download/Patchelf-v0.19.2+0/Patchelf.v0.19.2.x86_64-w64-mingw32-cxx11.tar.gz"
